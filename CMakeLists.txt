@@ -3,4 +3,6 @@ project(data_structure)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(data_structure 1.1.1动态链表.cpp)
+#在这里更改想要运行的文件
+add_executable(data_structure
+        1.1.2.3一维数组单向静态链表.cpp)
