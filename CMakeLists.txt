@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 23)
 
 #在这里更改想要运行的文件
 add_executable(data_structure
-        1.1.2.3一维数组单向静态链表.cpp)
+        "1.2.1 SQL queue.cpp")
