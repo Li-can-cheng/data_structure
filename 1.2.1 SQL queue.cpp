@@ -1,7 +1,10 @@
 
 //实例：
 //3 7
-//1 2 1 5 4 4
+//1 2 1 5 4 4 1
+
+//输出：
+//5
 
 #include <iostream>
 #include <queue>
